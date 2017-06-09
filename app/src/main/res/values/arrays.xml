@@ -16,6 +16,10 @@
  -->
 <resources>
 
+    <declare-styleable name="LocationEditTextPreference">
+        <attr name="minLength" format="integer"/>
+    </declare-styleable>
+
     <string-array name="pref_units_options">
         <item>@string/pref_units_label_metric</item>
         <item>@string/pref_units_label_imperial</item>
