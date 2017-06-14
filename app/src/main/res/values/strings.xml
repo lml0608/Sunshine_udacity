@@ -125,4 +125,15 @@
 
     <string name="empty_forecast_list_server_error">No weather information available. The server is not returning valid data. Please check for an updated version of Sunshine.</string>
     <string name="empty_forecast_list_invalid_location">No weather information available. The location in settings is not recognized by the weather server.</string>
+    <!--<string name="format_art_url" translatable="false">https://raw.githubusercontent.com/udacity/Sunshine-Version-2/sunshine_master/app/src/main/res/drawable-xxhdpi/art_<xliff:g id="description">%s</xliff:g>.png</string>-->
+
+    <string name="pref_art_pack_label">Icon Pack</string>
+    <string name="pref_art_pack_lable_sunshine">Sunshine</string>
+    <string name="pref_art_pack_lable_cute_dogs">Cute dogs</string>
+    <string name="pref_art_pack_key" translatable="false">art_Pack</string>
+    <!--https://github.com/udacity/Advanced_Android_Development/blob/4.02_Icon_Packs/app/src/main/res/drawable-xxhdpi/art_rain.png-->
+    <string name="pref_art_pack_sunshine" translatable="false">https://raw.githubusercontent.com/udacity/sunshine_icons/master/Archive/Colored/art_%s.png</string>
+    <!--<string name="pref_art_pack_sunshine" translatable="false">https://raw.githubusercontent.com/udacity/Sunshine-Version-2/sunshine_master/app/src/main/res/drawable-xxhdpi/art_%s.png</string>-->
+    <string name="pref_art_pack_cute_dogs" translatable="false">https://raw.githubusercontent.com/udacity/sunshine_icons/master/Archive/Mono/art_%s.png</string>
+    <!--<string name="pref_art_pack_cute_dogs" translatable="false">https://raw.githubusercontent.com/udacity/Sunshine-Version-2/sunshine_master/app/src/main/res/drawable-mdpi/art_%s.png</string>-->
 </resources>
